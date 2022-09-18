@@ -19,7 +19,7 @@
     - - [✓] Switch statements
   - - [✓] Data types
   - - [✓] Coding best practices
-- [ ] Functions
+- [x] Functions
   - - [ ] Introduction
   - - [ ] Scoping in Java
   - - [ ] Shadowing 
