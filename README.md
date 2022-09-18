@@ -1,7 +1,5 @@
 ## DSA-Progress-Trcaker
 
-# Progress Tracker
-
 ## DSA
 - [ ] Complete Git & GitHub Course
 - [ ] Introduction to Programming
